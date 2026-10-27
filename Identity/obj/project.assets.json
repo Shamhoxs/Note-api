@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Documents\\ProjectsAll\\Starter-Backend-web-api\\Identity\\Identity.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Documents\\ProjectsAll\\Note-api\\Identity\\Identity.csproj",
       "projectName": "Identity",
-      "projectPath": "C:\\Users\\admin\\Documents\\ProjectsAll\\Starter-Backend-web-api\\Identity\\Identity.csproj",
+      "projectPath": "C:\\Users\\admin\\Documents\\ProjectsAll\\Note-api\\Identity\\Identity.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Documents\\ProjectsAll\\Starter-Backend-web-api\\Identity\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Documents\\ProjectsAll\\Note-api\\Identity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

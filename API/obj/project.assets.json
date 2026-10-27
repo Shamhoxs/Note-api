@@ -140,11 +140,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Documents\\ProjectsAll\\Starter-Backend-web-api\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Documents\\ProjectsAll\\Note-api\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\admin\\Documents\\ProjectsAll\\Starter-Backend-web-api\\API\\API.csproj",
+      "projectPath": "C:\\Users\\admin\\Documents\\ProjectsAll\\Note-api\\API\\API.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Documents\\ProjectsAll\\Starter-Backend-web-api\\API\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Documents\\ProjectsAll\\Note-api\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -166,14 +166,14 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\admin\\Documents\\ProjectsAll\\Starter-Backend-web-api\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\admin\\Documents\\ProjectsAll\\Starter-Backend-web-api\\Core\\Core.csproj"
+            "C:\\Users\\admin\\Documents\\ProjectsAll\\Note-api\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\admin\\Documents\\ProjectsAll\\Note-api\\Core\\Core.csproj"
             },
-            "C:\\Users\\admin\\Documents\\ProjectsAll\\Starter-Backend-web-api\\Identity\\Identity.csproj": {
-              "projectPath": "C:\\Users\\admin\\Documents\\ProjectsAll\\Starter-Backend-web-api\\Identity\\Identity.csproj"
+            "C:\\Users\\admin\\Documents\\ProjectsAll\\Note-api\\Identity\\Identity.csproj": {
+              "projectPath": "C:\\Users\\admin\\Documents\\ProjectsAll\\Note-api\\Identity\\Identity.csproj"
             },
-            "C:\\Users\\admin\\Documents\\ProjectsAll\\Starter-Backend-web-api\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\admin\\Documents\\ProjectsAll\\Starter-Backend-web-api\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\admin\\Documents\\ProjectsAll\\Note-api\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\admin\\Documents\\ProjectsAll\\Note-api\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

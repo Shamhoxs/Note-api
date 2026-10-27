@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Documents\\ProjectsAll\\Starter-Backend-web-api\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Documents\\ProjectsAll\\Note-api\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\admin\\Documents\\ProjectsAll\\Starter-Backend-web-api\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\admin\\Documents\\ProjectsAll\\Note-api\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Documents\\ProjectsAll\\Starter-Backend-web-api\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Documents\\ProjectsAll\\Note-api\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,8 +59,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\admin\\Documents\\ProjectsAll\\Starter-Backend-web-api\\Core\\Core.csproj": {
-              "projectPath": "C:\\Users\\admin\\Documents\\ProjectsAll\\Starter-Backend-web-api\\Core\\Core.csproj"
+            "C:\\Users\\admin\\Documents\\ProjectsAll\\Note-api\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\admin\\Documents\\ProjectsAll\\Note-api\\Core\\Core.csproj"
             }
           }
         }
