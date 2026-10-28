@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using NoteAPI.Core.Dtos;
 using NoteAPI.Core.Interfaces;
 
 namespace API.Controllers;
@@ -9,8 +10,8 @@ namespace API.Controllers;
 // [ApiVersion("1.0")]
 public class NotesController : ControllerBase
 {
-    private readonly INotesService notesService;
-    public NotesController(INotesService _notesService)
+    private readonly INoteService notesService;
+    public NotesController(INoteService _notesService)
     {
         notesService = _notesService;
     }
@@ -18,7 +19,7 @@ public class NotesController : ControllerBase
     [HttpGet]
     public async Task<IActionResult> GetAllNotes()
     {
-        var notes = await notesService.GetAllNotes();
+        IReadOnlyList<NoteDto> notes = await notesService.GetAllNotes();
         return Ok(notes);
     }
 }
