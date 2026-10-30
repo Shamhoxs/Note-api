@@ -68,7 +68,10 @@
         },
         "runtime": {
           "bin/placeholder/Infrastructure.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -140,11 +143,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Documents\\ProjectsAll\\Note-api\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Documents\\ProjectsAll\\Note-api\\api\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\admin\\Documents\\ProjectsAll\\Note-api\\API\\API.csproj",
+      "projectPath": "C:\\Users\\admin\\Documents\\ProjectsAll\\Note-api\\api\\API.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Documents\\ProjectsAll\\Note-api\\API\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Documents\\ProjectsAll\\Note-api\\api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

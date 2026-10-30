@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "55vOYQEqA5o=",
+  "dgSpecHash": "Ax+fsrTQDEw=",
   "success": true,
   "projectFilePath": "C:\\Users\\admin\\Documents\\ProjectsAll\\Note-api\\Infrastructure\\Infrastructure.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.14\\microsoft.extensions.dependencyinjection.abstractions.10.0.14.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
